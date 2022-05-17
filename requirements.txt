@@ -1,2 +1,2 @@
-dagster
-dagster-cloud
+dagster==0.14.16rc2
+dagster-cloud[sandbox]==0.14.16rc2
