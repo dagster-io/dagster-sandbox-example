@@ -1,1 +1,1 @@
-from repo import foo_repo
+from .repo import foo_repo
