@@ -6,4 +6,4 @@ locations:
     package_name: example
     code_sync:
       - from: example
-        to: example
+        to: /opt/dagster/app/example
